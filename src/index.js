@@ -10,6 +10,11 @@ root.render(
     <App />
   </React.StrictMode>
 );
+// root.render(
+//   <React.StrictMode>
+//     <h1 style={{color:'gold'}}>Hai.</h1>
+//   </React.StrictMode>
+// );
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))

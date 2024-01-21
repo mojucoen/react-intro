@@ -12,7 +12,19 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+#weatherBox{
+  width: 300px;
+  height: 300px;
+}
+.freezing {
+  background-color: aqua;
+}
+.fair{
+  background-color: orange;
+}
+.hell-scape{
+  background-color: red;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
